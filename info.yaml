@@ -26,8 +26,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: "A AND B"
+  uo[0]: "Y"
+  uo[1]: ""
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
