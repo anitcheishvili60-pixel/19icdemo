@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-2 INPUT AND gate connect to an led output
+2 - input AND gate connect to an LED output
 
 ## How to test
 
-input binary values via switches and the led indicates the output
+input binary values via switches and the LED indicates the output if the circuit.
 
 ## External hardware
 
-switches and an led
+switches and an LED
+  
