@@ -2,9 +2,9 @@
 project:
   wokwi_id:     479700712619968513       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "19- ic demo"      # Project title
-  author:       "Ani Tcheishvili"      # Your name
+  author:       "anitcheishvili60-pixel"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  " input AND gate and LED"      # One line description of what your project does
+  description:  "input AND gate and LED"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
